@@ -1,0 +1,374 @@
+{
+
+  "SecAudit":
+  {
+
+    "Code":
+    1,
+
+    "Message":
+    "Доступ разрешен",
+
+    "Properties":
+    null
+
+  },
+
+  "TechAudit":
+  {
+
+    "Code":
+    1,
+
+    "ExceptionTrace":
+    "",
+
+    "Message":
+    "Операция успешно завершена",
+
+    "Properties":
+    null
+
+  },
+
+  "Balances":
+  [
+
+    {
+
+      "BalanceType":
+      4,
+
+      "BalanceValue":
+      500,
+
+      "EntityType":
+      2
+
+    },
+
+    {
+
+      "BalanceType":
+      2,
+
+      "BalanceValue":
+      500,
+
+      "EntityType":
+      2
+
+    },
+
+    {
+
+      "BalanceType":
+      5,
+
+      "BalanceValue":
+      120,
+
+      "EntityType":
+      2
+
+    },
+
+    {
+
+      "BalanceType":
+      3,
+
+      "BalanceValue":
+      400,
+
+      "EntityType":
+      2
+
+    },
+
+    {
+
+      "BalanceType":
+      1,
+
+      "BalanceValue":
+      400,
+
+      "EntityType":
+      2
+
+    }
+
+  ],
+
+  "PrintEvents":
+  [
+
+    {
+
+      "Collate":
+      false,
+
+      "Color":
+      3,
+
+      "Copies":
+      3,
+
+      "DateToRemove":
+      "/Date(1567939549077+0300)/",
+
+      "DeviceModel":
+      null,
+
+      "Duplex":
+      1,
+
+      "FileFormat":
+      2,
+
+      "IsAuthor":
+      true,
+
+      "JobDateTime":
+      "/Date(1567766749077+0300)/",
+
+      "JobTitle":
+      "Readme 1.txt — Блокнот",
+
+      "Location":
+      null,
+
+      "Pages":
+      [
+
+        {
+
+          "FileName":
+          "ea60294b-47db-47f0-a4c6-ba38ac9ee606_2019090613454700005000.emf",
+
+          "FormatName":
+          "A4",
+
+          "Image":
+          null,
+
+          "ImageId":
+          "00000000-0000-0000-0000-000000000000",
+
+          "Orientation":
+          1,
+
+          "PageContent":
+          "",
+
+          "PageNumber":
+          1,
+
+          "PaperLength":
+          2970,
+
+          "PaperSize":
+          9,
+
+          "PaperWidth":
+          2100
+
+        }
+
+      ],
+
+      "PagesCount":
+      56,
+
+      "PrintEventID":
+      "7082c0bd-b9a7-47ea-8ecf-f790d1edfed1",
+
+      "Status":
+      3,
+
+      "UserLogin":
+      "advoryankin"
+
+    },
+
+    {
+
+      "Collate":
+      false,
+
+      "Color":
+      2,
+
+      "Copies":
+      3,
+
+      "DateToRemove":
+      "/Date(1567939544730+0300)/",
+
+      "DeviceModel":
+      null,
+
+      "Duplex":
+      1,
+
+      "FileFormat":
+      2,
+
+      "IsAuthor":
+      true,
+
+      "JobDateTime":
+      "/Date(1567766744730+0300)/",
+
+      "JobTitle":
+      "Readme 2.txt — Блокнот",
+
+      "Location":
+      null,
+
+      "Pages":
+      [
+
+        {
+
+          "FileName":
+          "0b08d0d7-0a2d-4fcf-901d-4cc940f7972c_2019090613454300004000.emf",
+
+          "FormatName":
+          "A4",
+
+          "Image":
+          null,
+
+          "ImageId":
+          "00000000-0000-0000-0000-000000000000",
+
+          "Orientation":
+          1,
+
+          "PageContent":
+          "",
+
+          "PageNumber":
+          1,
+
+          "PaperLength":
+          2970,
+
+          "PaperSize":
+          9,
+
+          "PaperWidth":
+          2100
+
+        }
+
+      ],
+
+      "PagesCount":
+      1,
+
+      "PrintEventID":
+      "8fb2cd54-5913-40f9-b501-40e3859996c0",
+
+      "Status":
+      3,
+
+      "UserLogin":
+      "advoryankin"
+
+    },
+
+    {
+
+      "Collate":
+      false,
+
+      "Color":
+      1,
+
+      "Copies":
+      1,
+
+      "DateToRemove":
+      "/Date(1567939540423+0300)/",
+
+      "DeviceModel":
+      null,
+
+      "Duplex":
+      1,
+
+      "FileFormat":
+      2,
+
+      "IsAuthor":
+      true,
+
+      "JobDateTime":
+      "/Date(1567766740423+0300)/",
+
+      "JobTitle":
+      "Readme 3.txt — Блокнот",
+
+      "Location":
+      null,
+
+      "Pages":
+      [
+
+        {
+
+          "FileName":
+          "a467082f-4d39-40c0-a7f1-fbb6f76efe7a_2019090613453800003000.emf",
+
+          "FormatName":
+          "A4",
+
+          "Image":
+          null,
+
+          "ImageId":
+          "00000000-0000-0000-0000-000000000000",
+
+          "Orientation":
+          1,
+
+          "PageContent":
+          "",
+
+          "PageNumber":
+          1,
+
+          "PaperLength":
+          2970,
+
+          "PaperSize":
+          9,
+
+          "PaperWidth":
+          2100
+
+        }
+
+      ],
+
+      "PagesCount":
+      962,
+
+      "PrintEventID":
+      "612b8363-c9f2-4e96-9c9d-c53bab4800d0",
+
+      "Status":
+      3,
+
+      "UserLogin":
+      "advoryankin"
+
+    }
+
+  ]
+
+}
+
